@@ -10,7 +10,7 @@ You want to run the tests, but not _actually_ create slow ass Spark contexts.
 
 ## Example
 
-_Look at `[./example/](./example/)` for details._
+_Look at `[example/](example/tests/test_main.py)` for details._
 
 Running a test to check a manually created DataFrame takes around 8 seconds to
 run, including pytest setup.
